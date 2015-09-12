@@ -1,5 +1,5 @@
 # yummly
-What's cooing Kaggle competition
+What's cooking Kaggle competition
 
 Use recipe ingredients to predict the category of cuisine
 
